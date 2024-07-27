@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mhorandata
 - 👀 I’m interested in new employment opportunities.
 - 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on Junior level projects.
+- 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me matthewloganhoran@gmail.com
 
 <!---
